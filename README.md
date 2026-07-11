@@ -1,3 +1,14 @@
+**Quick Start**
+Download the docker-compose.yml and create a new folder for the docker image
+
+Ensure Docker Desktop is installed and run:
+$docker compose pull
+
+Ensure it successfully pulls the package and then start it up:
+$docker compose run --rm sl2cfoam /bin/bash
+
+Note: it is recommended to run create a directory outside of your Desktop folder (or any folder that is cloud sync'd in Windows or Mac)
+
 **From Spin-Foam Amplitudes to a Recoupling-Covariant Pre-OR Operator in FAOCC–LQG**
 
 Finite-Aeon OR-Combinatorial Cosmology (FAOCC) proposes that the physically realized histories of a cosmological aeon form a finite subset of the much larger space of formal quantum possibilities, with objective reduction supplying the physical distinction between unrealized alternatives and realized branch events. To investigate how such a selection principle might be incorporated into loop quantum gravity without altering standard kinematics, we developed and tested a fixed-graph numerical framework based on Lorentzian EPRL spin-foam vertex amplitudes. Full five-index vertex tensors were generated with `sl2cfoam-next` and deformed only after the ordinary EPRL calculation by applying a bounded, dimensionless geometry-aligned weighting to their intertwiner components. The weighting used recoupling-angle and shape-regularity information as a preparatory proxy, while deliberately avoiding any claim that it represented a Penrose–Diósi gravitational self-energy or a microscopic collapse law. Its effect was measured through component-basis participation and, more importantly, through one-axis and (2|3) bipartite singular-value spectra, which provide more stable measures of how quantum-amplitude support is distributed across the tensor.
