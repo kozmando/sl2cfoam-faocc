@@ -1,18 +1,20 @@
 **Quick Start**
-Download the docker-compose.yml and create a new folder for the docker image
+
+1) Download the docker-compose.yml and create a new folder for the docker image
 Note: it is recommended to run create a directory outside of your Desktop folder (or any folder that is cloud sync'd in Windows or Mac)
 
-Ensure Docker Desktop is installed and running, then run the command:
+2) Ensure Docker Desktop is installed and running, then run the command:
 $docker compose pull
 
-Ensure it successfully pulls the package and then start it up by running the command:
+3) Ensure it successfully pulls the package and then start it up by running the command:
 $docker compose run --rm sl2cfoam /bin/bash
 
-Once inside the container navigate to something interesting such as:
+4) Once inside the container navigate to something interesting such as:
 root@145030b1288d:/workspace/sl2cfoam-next-master/faocc_or_weighted/faocc_or_weighted_v7#
 root@145030b1288d:/workspace/sl2cfoam-next-master/faocc_or_weighted/faocc_or_weighted_v8/preflight# 
 
-The README_v7_structured.md has a comprehensive set of tests that yielded the results in preparation for the next descibred at the end of the summary below.
+5) The README_v7_structured.md has a comprehensive set of tests that yielded the results in preparation for the next descibred at the end of the summary below.
+
 
 **From Spin-Foam Amplitudes to a Recoupling-Covariant Pre-OR Operator in FAOCC–LQG**
 
