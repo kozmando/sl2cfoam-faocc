@@ -12,7 +12,7 @@ Once inside the container navigate to something interesting such as:
 root@145030b1288d:/workspace/sl2cfoam-next-master/faocc_or_weighted/faocc_or_weighted_v7#
 root@145030b1288d:/workspace/sl2cfoam-next-master/faocc_or_weighted/faocc_or_weighted_v8/preflight# 
 
-The README_v7_structured.md has a comprehensive set of tests that yielded the results in preparation for the next descibred at the end of the summary below. 
+The README_v7_structured.md has a comprehensive set of tests that yielded the results in preparation for the next descibred at the end of the summary below.
 
 **From Spin-Foam Amplitudes to a Recoupling-Covariant Pre-OR Operator in FAOCC–LQG**
 
