@@ -1,0 +1,7 @@
+services:
+  sl2cfoam:
+    image: ghcr.io/kozmando/sl2cfoam-faocc:latest
+    container_name: sl2cfoam-faocc
+    platform: linux/amd64
+    stdin_open: true
+    tty: true
