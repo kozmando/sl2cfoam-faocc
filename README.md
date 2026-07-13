@@ -15,9 +15,8 @@ root@145030b1288d:/workspace/sl2cfoam-next-master/faocc_or_weighted/faocc_or_wei
 
 5) The README_v7_structured.md has a comprehensive set of tests that yielded the results in preparation for the next descibred at the end of the summary below.
 
-Finite-Aeon OR-Combinatorial Cosmology: https://doi.org/10.13140/RG.2.2.24944.11524/6
-
-FAOCC-LQG: A Fixed-Graph Twistor and Spinor Bridge to OR-Selected Quantum-Geometric Histories: https://doi.org/10.13140/RG.2.2.21714.31683
+- Finite-Aeon OR-Combinatorial Cosmology: https://doi.org/10.13140/RG.2.2.24944.11524/6
+- FAOCC-LQG: A Fixed-Graph Twistor and Spinor Bridge to OR-Selected Quantum-Geometric Histories: https://doi.org/10.13140/RG.2.2.21714.31683
 
 
 **From Spin-Foam Amplitudes to a Recoupling-Covariant Pre-OR Operator in FAOCC–LQG**
