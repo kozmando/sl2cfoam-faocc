@@ -18,7 +18,6 @@ root@145030b1288d:/workspace/sl2cfoam-next-master/faocc_or_weighted/faocc_or_wei
 - Finite-Aeon OR-Combinatorial Cosmology: https://doi.org/10.13140/RG.2.2.24944.11524/6
 - FAOCC-LQG: A Fixed-Graph Twistor and Spinor Bridge to OR-Selected Quantum-Geometric Histories: https://doi.org/10.13140/RG.2.2.21714.31683
 
-
 **From Spin-Foam Amplitudes to a Recoupling-Covariant Pre-OR Operator in FAOCC–LQG**
 
 Finite-Aeon OR-Combinatorial Cosmology (FAOCC) proposes that the physically realized histories of a cosmological aeon form a finite subset of the much larger space of formal quantum possibilities, with objective reduction supplying the physical distinction between unrealized alternatives and realized branch events. To investigate how such a selection principle might be incorporated into loop quantum gravity without altering standard kinematics, this program develops and tests a fixed-graph numerical framework based on Lorentzian EPRL spin-foam vertex amplitudes. Full five-index vertex tensors were generated with `sl2cfoam-next` and deformed only after the ordinary EPRL calculation by applying a bounded, dimensionless geometry-aligned weighting to their intertwiner components. The weighting used recoupling-angle and shape-regularity information as a preparatory proxy, while deliberately avoiding any claim that it represented a Penrose–Diósi gravitational self-energy or a microscopic collapse law. Its effect was measured through component-basis participation and, more importantly, through one-axis and (2|3) bipartite singular-value spectra, which provide more stable measures of how quantum-amplitude support is distributed across the tensor.
@@ -40,5 +39,8 @@ So far, the outcome has provided a concrete pre-OR operator architecture for FAO
 
 <img width="1149" height="1369" alt="ERPL_OR_view" src="https://github.com/user-attachments/assets/3dfde428-4ee2-46c0-9464-c03557e0a1fc" />
 
-Cite: "Francesco Gozzini, A high-performance code for EPRL spin foam amplitudes, Class. Quantum Grav. 38, 225010, https://doi.org/10.1088/1361-6382/ac2b0b
+# Acknowledgements
+This project builds upon and utilizes the following open-source works:
+Francesco Gozzini, A high-performance code for EPRL spin foam amplitudes, Class. Quantum Grav. 38, 225010, https://doi.org/10.1088/1361-6382/ac2b0b
+Repo: https://github.com/qg-cpt-marseille/sl2cfoam-next
 
