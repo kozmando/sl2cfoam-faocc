@@ -13,7 +13,7 @@ $docker compose run --rm sl2cfoam /bin/bash
 root@145030b1288d:/workspace/sl2cfoam-next-master/faocc_or_weighted/faocc_or_weighted_v7#
 root@145030b1288d:/workspace/sl2cfoam-next-master/faocc_or_weighted/faocc_or_weighted_v8/preflight# 
 
-5) The README_v7_structured.md has a comprehensive set of tests that yielded the results in preparation for the next descibred at the end of the summary below.
+5) The README_v7_structured.md has a comprehensive set of tests that yielded the results in preparation for the next tests descibred at the end of the summary below.
 
 - Finite-Aeon OR-Combinatorial Cosmology: https://doi.org/10.13140/RG.2.2.24944.11524/6
 - FAOCC-LQG: A Fixed-Graph Twistor and Spinor Bridge to OR-Selected Quantum-Geometric Histories: https://doi.org/10.13140/RG.2.2.21714.31683
