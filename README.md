@@ -34,7 +34,7 @@ So far, the outcome has provided a concrete pre-OR operator architecture for FAO
 
 <img width="1536" height="1024" alt="5 Tetra" src="https://github.com/user-attachments/assets/51f84e69-420a-4194-902e-3d89f0184944" />
 
-<img width="1536" height="1024" alt="Test" src="https://github.com/user-attachments/assets/b1f4caf5-a304-47cf-a24b-f7211d540999" />
+<img width="1536" height="1024" alt="D2_Permutation" src="https://github.com/user-attachments/assets/b1f4caf5-a304-47cf-a24b-f7211d540999" />
 
 <img width="1149" height="1369" alt="EPRL_120orbit_OR" src="https://github.com/user-attachments/assets/4bd808e3-72a1-401e-bdc7-fe9f15af9209" />
 
