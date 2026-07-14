@@ -40,5 +40,5 @@ So far, the outcome has provided a concrete pre-OR operator architecture for FAO
 
 <img width="1149" height="1369" alt="ERPL_OR_view" src="https://github.com/user-attachments/assets/3dfde428-4ee2-46c0-9464-c03557e0a1fc" />
 
-
+Cite: "Francesco Gozzini, A high-performance code for EPRL spin foam amplitudes, Class. Quantum Grav. 38, 225010, https://doi.org/10.1088/1361-6382/ac2b0b
 
