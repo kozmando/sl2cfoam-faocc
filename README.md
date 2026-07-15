@@ -40,8 +40,9 @@ So far, the outcome has provided a concrete pre-OR operator architecture for FAO
 <img width="1149" height="1369" alt="ERPL_OR_view" src="https://github.com/user-attachments/assets/3dfde428-4ee2-46c0-9464-c03557e0a1fc" />
 
 # Acknowledgements
-- This project builds upon and utilizes the following open-source works:
-Francesco Gozzini, A high-performance code for EPRL spin foam amplitudes, Class. Quantum Grav. 38, 225010, https://doi.org/10.1088/1361-6382/ac2b0b
+This project builds upon and utilizes the following open-source works:
+
+- Francesco Gozzini, A high-performance code for EPRL spin foam amplitudes, Class. Quantum Grav. 38, 225010, https://doi.org/10.1088/1361-6382/ac2b0b
 - Repo: https://github.com/qg-cpt-marseille/sl2cfoam-next
 
 - Pietro Donàa, Pietropaolo Frisonib, How-To compute EPRL spin foam amplitudes, https://arxiv.org/pdf/2202.04360
